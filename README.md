@@ -1,4 +1,4 @@
-# DALL·E Mini
+# 9ImageDrawMaker
 
 <a href="https://www.craiyon.com/"><img src="https://www.craiyon.com/thumbnail.png" width="300"></a>
 
@@ -10,7 +10,7 @@ You can use the model on [🖍️ craiyon](https://www.craiyon.com/)
 
 Refer to our reports:
 
-* [DALL·E mini - Generate Images from Any Text Prompt](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini-Generate-images-from-any-text-prompt--VmlldzoyMDE4NDAy)
+* [9ImageDrawMaker - Generate Images from Any Text Prompt](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini-Generate-images-from-any-text-prompt--VmlldzoyMDE4NDAy)
 * [DALL·E mini - Explained](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-Mini-Explained-with-Demo--Vmlldzo4NjIxODA)
 * [DALL·E mega - Training Journal](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-Mega-Training-Journal--VmlldzoxODMxMDI2)
 
